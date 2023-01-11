@@ -1,0 +1,138 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fname": "Walter White",
+      "lname": "White",
+      "email": "rs@gmail.com",
+      "mobile": "9876543212",
+      "address1": "Marathalli",
+      "address2": "kundanhalli",
+      "state": "Delhi",
+      "country": "India",
+      "zipcode": 187654
+    },
+    {
+      "fname": "Ahuja",
+      "lname": "singh",
+      "email": "r@gmail.com",
+      "mobile": "9870000671",
+      "address1": "bengaluru, sai temple road",
+      "zipcode": "500002",
+      "country": "Guinea",
+      "state": "Bar Municipality",
+      "id": 4
+    },
+    {
+      "fname": "Sagar",
+      "lname": "singh",
+      "email": "rahul@gmail.com",
+      "mobile": "6789098765",
+      "address1": "sasaram",
+      "zipcode": "678905",
+      "country": "India",
+      "state": "punjab",
+      "id": 5
+    },
+    {
+      "fname": "Rohit",
+      "lname": "singh",
+      "email": "rohit@gmail.com",
+      "mobile": "123456765",
+      "address1": "bellandur",
+      "address2": "Marathalli ",
+      "city": "bengaluru",
+      "zipcode": "658790",
+      "country": "Indonesia",
+      "state": "Gambela Region",
+      "id": 6
+    },
+    {
+      "fname": "smith",
+      "lname": "tailor",
+      "email": "s@gmail.com",
+      "mobile": "1234567890",
+      "address1": "USA",
+      "address2": "california, karnataka,15",
+      "city": "florida",
+      "zipcode": "655678",
+      "country": "Algeria",
+      "state": "Dire Dawa",
+      "id": 7
+    },
+    {
+      "fname": "saurabh",
+      "lname": "turkimistan",
+      "email": "s@gmail.com",
+      "mobile": "2345678910",
+      "address1": "rtfghj......",
+      "zipcode": "098777",
+      "country": [
+        {
+          "value": "Albania",
+          "label": "Albania"
+        },
+        {
+          "value": "Andorra",
+          "label": "Andorra"
+        },
+        {
+          "value": "Algeria",
+          "label": "Algeria"
+        }
+      ],
+      "state": [
+        {
+          "value": "Delhi",
+          "label": "Delhi"
+        },
+        {
+          "value": "Amhara Region",
+          "label": "Amhara Region"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "fname": "prakhas",
+      "lname": "ranjan",
+      "email": "p@gmail.com",
+      "mobile": "1234567890",
+      "address1": "Delhi ,india",
+      "zipcode": "098765",
+      "country": [
+        {
+          "value": "India",
+          "label": "India"
+        },
+        {
+          "value": "British Indian Ocean Territory",
+          "label": "British Indian Ocean Territory"
+        },
+        {
+          "value": "Algeria",
+          "label": "Algeria"
+        }
+      ],
+      "state": [
+        {
+          "value": "Amhara Region",
+          "label": "Amhara Region"
+        },
+        {
+          "value": "Somali Region",
+          "label": "Somali Region"
+        },
+        {
+          "value": "Afar Region",
+          "label": "Afar Region"
+        },
+        {
+          "value": "Oromia Region",
+          "label": "Oromia Region"
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
